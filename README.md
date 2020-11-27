@@ -3,15 +3,15 @@
 
 * build 디렉토리에 빌드된 파일이 들어있습니다. 
 
-## `npm install`
+### `npm install`
 
 페키지 인스톨
 
-## `npm start`
+### `npm start`
 
 테스트 리액트 스타트
 
-## `npm build`
+### `npm build`
 
 테스트 리액트 빌드
 
